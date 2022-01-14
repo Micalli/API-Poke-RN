@@ -26,7 +26,7 @@ Lista de pokemons e suas informações desenvolvida com React Native e Redux con
 #### Primeiro clone o projeto:
 
 ```bash
-$ git clone https://github.com/MRLSK8/Pokedex.git 
+$ git clone https://github.com/Micalli/API-Poke-RN.git
 ```
 
 #### Rode o comando para instalar os pacotes:
